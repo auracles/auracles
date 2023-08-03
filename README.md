@@ -1,6 +1,1 @@
-- Hi, I’m @auracles
-- I’m interested in digital privacy, artificial intelligence and how technology and society affect each other
-- I’m currently learning Python
-- I’m looking to collaborate on projects that I can learn from; are fun
-- How to reach me: ask me.
-- Take care and stay safe!
+Hi world, I’m aura, it's nice to e-meet you :)
